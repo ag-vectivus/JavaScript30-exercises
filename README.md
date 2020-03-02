@@ -4,4 +4,4 @@ I've made this exercises earlier but I created this repository to keep them in p
 [This](https://github.com/amelieyeh/JS30) repository contains useful notes and recap about each exercise.
 
 Exercises:
-1. [01 - JavaScript Drum Kit](https://github.com/ag-vectivus/JS30 - exercises/tree/master/01 - JavaScript Drum Kit) - key event listener, audio play and toggle class;
+1. [01 - JavaScript Drum Kit](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/01%20-%20JavaScript%20Drum%20Kit) - key event listener, audio play and toggle class;
