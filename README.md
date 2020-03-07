@@ -9,3 +9,4 @@ Exercises:
 3. [03 - CSS Variables](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/03%20-%20CSS%20Variables) - data- attribute, :root, CSS Variables definition var(--xxx), filter: blur(), change event and mousemove event;
 4. [04 - Array Cardio Day 1](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/04%20-%20Array%20Cardio%20Day%201) - console.table(), filter(), map(), sort(), reduce();
 5. [05 - Flex Panel Gallery](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/05%20-%20Flex%20Panel%20Gallery) - CSS flex, toggle(), includes(), transitionend;
+6. [06 - Type Ahead](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/06%20-%20Type%20Ahead) - change & keyup events, Promise: fetch(), then(), json(), Array: filter(), map(), push(), join(), Regexp: match(), replace();
