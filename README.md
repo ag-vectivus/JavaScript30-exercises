@@ -10,3 +10,5 @@ Exercises:
 4. [04 - Array Cardio Day 1](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/04%20-%20Array%20Cardio%20Day%201) - console.table(), filter(), map(), sort(), reduce();
 5. [05 - Flex Panel Gallery](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/05%20-%20Flex%20Panel%20Gallery) - CSS flex, toggle(), includes(), transitionend;
 6. [06 - Type Ahead](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/06%20-%20Type%20Ahead) - change & keyup events, Promise: fetch(), then(), json(), Array: filter(), map(), push(), join(), Regexp: match(), replace();
+7. [07 - Array Cardio Day 2](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/07%20-%20Array%20Cardio%20Day%202) - Array.prototype.some(), Array.prototype.every(), Array.prototype.find(), Array.prototype.findIndex(), Array.prototype.splice(), Array.prototype.slice();
+8. [08 - Fun with HTML5 Canvas](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) - Canvas, HSL, mouse events;
