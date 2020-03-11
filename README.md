@@ -1,5 +1,5 @@
 This repository contains exercises from the [JavaScript30](https://javascript30.com/) by [Wes Bos](https://github.com/wesbos).
-I've made this exercises earlier but I created this repository to keep them in proper order.
+I've made this exercises earlier but I've created this repository to keep them in proper order.
 
 [This](https://github.com/amelieyeh/JS30) repository contains useful notes and recap about each exercise.
 
@@ -13,3 +13,4 @@ Exercises:
 7. [07 - Array Cardio Day 2](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/07%20-%20Array%20Cardio%20Day%202) - Array.prototype.some(), Array.prototype.every(), Array.prototype.find(), Array.prototype.findIndex(), Array.prototype.splice(), Array.prototype.slice();
 8. [08 - Fun with HTML5 Canvas](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) - Canvas, HSL, mouse events;
 9. [09 - Dev Tools Domination](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/09%20-%20Dev%20Tools%20Domination) - Attributes Modification on an element and bunch of console tricks;
+10. [10 - Hold Shift and Check Checkboxes](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) - Fetch all the <input> elements and addEventListener;
