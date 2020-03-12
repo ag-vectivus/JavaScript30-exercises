@@ -17,3 +17,4 @@ Exercises:
 11. [11 - Custom Video Player](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/11%20-%20Custom%20Video%20Player) - video.paused, video.currentTime, dataset of .data- attribute, parseFloat();
 12. [12 - Key Sequence Detection](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/12%20-%20Key%20Sequence%20Detection) - keyup, array.push(), array.join(), array.includes();
 13. [13 - Slide in on Scroll](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/13%20-%20Slide%20in%20on%20Scroll) - window.scrollY, window.innerHeight, offsetTop, Debouncing;
+14. [14 - JavaScript References VS Copying](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/14%20-%20JavaScript%20References%20VS%20Copying);
