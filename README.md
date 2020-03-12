@@ -15,3 +15,5 @@ Exercises:
 9. [09 - Dev Tools Domination](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/09%20-%20Dev%20Tools%20Domination) - Attributes Modification on an element and bunch of console tricks;
 10. [10 - Hold Shift and Check Checkboxes](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes);
 11. [11 - Custom Video Player](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/11%20-%20Custom%20Video%20Player) - video.paused, video.currentTime, dataset of .data- attribute, parseFloat();
+12. [12 - Key Sequence Detection](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/12%20-%20Key%20Sequence%20Detection) - keyup, array.push(), array.join(), array.includes();
+13. [13 - Slide in on Scroll](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/13%20-%20Slide%20in%20on%20Scroll) - window.scrollY, window.innerHeight, offsetTop, Debouncing;
