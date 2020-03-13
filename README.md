@@ -20,3 +20,4 @@ Exercises:
 14. [14 - JavaScript References VS Copying](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/14%20-%20JavaScript%20References%20VS%20Copying);
 15. [15 - LocalStorage](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/15%20-%20LocalStorage) - localStorage, e.preventDefault();
 16. [16 - Mouse Move Shadow](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/16%20-%20Mouse%20Move%20Shadow);
+17. [17 - Sort Without Articles](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/17%20-%20Sort%20Without%20Articles);
