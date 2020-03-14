@@ -22,3 +22,5 @@ Exercises:
 16. [16 - Mouse Move Shadow](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/16%20-%20Mouse%20Move%20Shadow);
 17. [17 - Sort Without Articles](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/17%20-%20Sort%20Without%20Articles);
 18. [18 - Adding Up Times with Reduce](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce);
+18. [18 - Adding Up Times with Reduce](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce);
+19. [19 - Webcam Fun](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/19%20-%20Webcam%20Fun);
