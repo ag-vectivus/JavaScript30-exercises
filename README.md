@@ -24,3 +24,4 @@ Exercises:
 18. [18 - Adding Up Times with Reduce](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce);
 18. [18 - Adding Up Times with Reduce](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce);
 19. [19 - Webcam Fun](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/19%20-%20Webcam%20Fun);
+20. [20 - Speech Detection](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/20%20-%20Speech%20Detection);
