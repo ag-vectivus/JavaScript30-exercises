@@ -26,3 +26,4 @@ Exercises:
 20. [20 - Speech Detection](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/20%20-%20Speech%20Detection) - SpeechRecognition(), end;
 21. [21 - Geolocation](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/21%20-%20Geolocation) - geolocation, watchPosition, coords;
 22. [22 - Follow Along Link Highlighter](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter) - getBoundingClientRect(), scrollX and scrollY;
+23. [23 - Speech Synthesis](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/23%20-%20Speech%20Synthesis) - speechSynthesisUtterance, SpeechSynthesis, Anonymous function;
