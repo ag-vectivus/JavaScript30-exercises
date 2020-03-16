@@ -27,3 +27,4 @@ Exercises:
 21. [21 - Geolocation](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/21%20-%20Geolocation) - geolocation, watchPosition, coords;
 22. [22 - Follow Along Link Highlighter](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter) - getBoundingClientRect(), scrollX and scrollY;
 23. [23 - Speech Synthesis](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/23%20-%20Speech%20Synthesis) - speechSynthesisUtterance, SpeechSynthesis, Anonymous function;
+24. [24 - Sticky Nav](https://github.com/ag-vectivus/JavaScript30-exercises/tree/master/24%20-%20Sticky%20Nav) - position: fixed;
